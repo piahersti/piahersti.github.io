@@ -1,0 +1,19 @@
+body
+{background: ivory;
+color: gray;
+}
+h1 {font-size: 35px;}
+p {font-size: 16px;
+color: darkblue;
+background: lavender;
+}
+ol {list-style: upper-alpha}
+
+ul {list-style: square}
+
+.profile-image {border: dotted;
+border-width: 2px;
+width: 200px;
+height: 200px;
+}
+
