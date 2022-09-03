@@ -1,0 +1,86 @@
+<<<<<<< Updated upstream
+body
+{background: ivory;
+color: gray;
+}
+h1 {font-size: 35px;}
+p {font-size: 16px;
+color: darkblue;
+background: lavender;
+}
+ol {list-style: upper-alpha}
+
+ul {list-style: square}
+
+.profile-image {border: dotted;
+border-width: 2px;
+width: 200px;
+height: 200px;
+}
+
+=======
+body
+{background: ivory;
+color: gray;
+}
+h1 {font-size: 35px;
+border: double;
+padding: 20px;
+margin-top: 50px;
+text-align: center;}
+
+p {font-size: 16px;
+color: darkblue;
+background: lavender;
+margin: auto;
+}
+
+.portf {font-size: 16px;
+color: darkblue;
+background: lavender;
+margin-left: auto;
+margin-right: 250px;
+margin-top: 21px;
+}
+
+ol {list-style: upper-alpha}
+
+ul {list-style: square}
+
+.profile-image {border: dotted;
+border-width: 2px;
+width: 200px;
+height: 200px;
+}
+
+.link {position: absolute;
+top: 0px;
+left: 0px;
+background-color: teal;
+color: white;
+border: double;
+padding: 10px;
+border-radius: 15px
+
+}
+
+.div1 {
+    height: 30px;
+    width: auto;
+    background-color: teal;
+    margin-bottom: 20px;
+}
+
+.img1 {display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 10px;
+}
+
+.img2 {float: right;
+margin: 10px;
+}
+
+
+
+>>>>>>> Stashed changes
