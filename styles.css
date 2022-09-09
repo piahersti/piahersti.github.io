@@ -1,0 +1,101 @@
+
+
+body {
+    background-color: #FFFAF0;
+font-family: sans-serif;
+font-size: medium;
+}
+
+.vl {
+  border-left: 30px solid #696969;
+  height: 1200px;
+  position: absolute;
+  left: 0%;
+  margin-left: 0px;
+  top: 0;
+}
+
+
+
+header {text-transform: uppercase;
+color: #696969;
+font-style: italic;
+line-height: 0px;
+margin-top: 80px;
+margin-left: 40px;
+float: left;
+}
+
+main {clear: both;
+width: 65%;
+margin-left: 40px;
+margin-top: 80px;
+float: left;}
+
+aside {
+width: 30%;
+float: right;
+margin-top: 80px;}
+
+footer {
+    width: 30%;
+    float: right;}
+    
+h2 {color: orange;}
+
+
+  dl {
+        width: 100%;
+        overflow: hidden;
+        padding: 0;
+        margin: 0;
+        line-height: 1.6;
+    
+      }
+      dt {
+        float: left;
+        width: 30%;
+        padding: 0;
+        margin: 0
+      }
+      dd {
+        float: left;
+        width: 70%;
+        padding: 0;
+        margin: 0
+      }
+      
+      .sidebox1 {
+        background-color: #CCCCCC;
+        padding: 10px;
+        margin: 10px;
+        margin-bottom: 30px;}
+        
+     .sidebox2 {
+        background-color: #CCCCCC;
+        padding: 10px;
+        margin: 10px;
+        margin-bottom: 30px;
+     }
+        .skilllist{
+        list-style-type: none;
+        padding-left: 5px; }
+
+progress {
+background: black;
+color: orange;
+float: right;}
+
+.profile-image {
+      position: absolute;
+            top: 40px;
+            right: 80px;
+            z-index: 1;
+            border-radius: 50%;
+}
+
+
+.portf {width: 60%;}
+.img2 {width: 30%;}
+#score {float: left;
+margin: 10px;}
